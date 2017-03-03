@@ -1,0 +1,13 @@
+{
+  "name": "boost-pool",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-thread": "1.63.0",
+    "boost-utility": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-detail": "1.63.0",
+    "boost-integer": "1.63.0",
+    "boost-assert": "1.63.0",
+    "boost-type-traits": "1.63.0"
+  }
+}
