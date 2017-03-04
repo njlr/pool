@@ -1,3 +1,5 @@
+include_defs('//BUCKAROO_DEPS')
+
 prebuilt_cxx_library(
   name = 'boost-pool', 
   header_only = True,
